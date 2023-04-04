@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp1</string>
+    <string name="question">Question</string>
+    <string name="_00_15">00:15</string>
+    <string name="option2">option2</string>
+    <string name="option1">option1</string>
+</resources>
